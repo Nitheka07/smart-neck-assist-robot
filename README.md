@@ -10,9 +10,7 @@
 
 ---
 
-## 🎥 Demo
 
-<!-- Upload your demo video to the repo and replace the path below -->
 ## 🎥 Demo
 
 ### Wi-Fi Dashboard Control
