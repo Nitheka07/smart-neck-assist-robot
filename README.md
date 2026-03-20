@@ -133,21 +133,7 @@ Calibrated using an **MPU6050 gyroscope and accelerometer** attached to the chin
 - **Cloud-based tele-rehabilitation** support
 - Custom forehead/chin pads for improved comfort
 
----
 
-## 📁 Repository Structure
-
-```
-smart-neck-assist-robot/
-├── README.md
-├── demo/
-│   └── demo.mp4
-└── results/
-    ├── pitch_motion.png
-    ├── roll_motion.png
-    ├── yaw_motion.png
-    └── prototype_photos/
-```
 
 ---
 
