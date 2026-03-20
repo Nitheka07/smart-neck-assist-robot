@@ -16,7 +16,7 @@
 ## 🎥 Demo
 
 ### Wi-Fi Dashboard Control
-https://github.com/YOUR_USERNAME/smart-neck-assist-robot/assets/YOUR_ASSET_ID/wifi_demo.mp4
+https://github.com/user-attachments/assets/082f8974-8ca7-4abb-b3d2-ae807023513d
 
 ### Bluetooth Voice Control
 https://github.com/YOUR_USERNAME/smart-neck-assist-robot/assets/YOUR_ASSET_ID/bluetooth_demo.mp4
